@@ -26,8 +26,8 @@ namespace B_Tree_Preorder_Traversal
             {
                 root = nodeBuffer.Pop();
                 resultList.Add(root.Val);
-                if (root.Left != null) nodeBuffer.Push(root.Left);
                 if (root.Right != null) nodeBuffer.Push(root.Right);
+                if (root.Left != null) nodeBuffer.Push(root.Left);
             }
 
             return resultList;
