@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace B_Tree_Preorder_Traversal
 {
+    //TODO: Unit-tests
+    //TODO: Some refactoring
     internal class Program
     {
         private static void Main()
