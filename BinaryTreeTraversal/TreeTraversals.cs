@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace BinaryTreeTraversal
 {
-    public partial class TreeNode
+    public static class TreeTraversals
     {
-        public IList<int> PreorderTraversal(TreeNode root)
+        public static IList<int> PreorderTraversal(TreeNode root)
         {
             IList<int> resultList = new List<int>();
 

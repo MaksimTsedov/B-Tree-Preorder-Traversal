@@ -1,6 +1,6 @@
 ﻿namespace BinaryTreeTraversal
 {
-    public partial class TreeNode
+    public class TreeNode
     {
         public int Val;
         public TreeNode Left;
