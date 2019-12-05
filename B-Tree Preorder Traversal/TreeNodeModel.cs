@@ -1,6 +1,6 @@
-﻿namespace B_Tree_Preorder_Traversal
+﻿namespace BinaryTreeTraversal
 {
-    public class TreeNode
+    public partial class TreeNode
     {
         public int Val;
         public TreeNode Left;

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B-Tree Preorder Traversal", "B-Tree Preorder Traversal\B-Tree Preorder Traversal.csproj", "{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeTraversal", "B-Tree Preorder Traversal\BinaryTreeTraversal.csproj", "{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
