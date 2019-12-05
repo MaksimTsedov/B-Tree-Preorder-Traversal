@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeTraversal", "B-Tree Preorder Traversal\BinaryTreeTraversal.csproj", "{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeTraversal", "BinaryTreeTraversal\BinaryTreeTraversal.csproj", "{40406322-B480-4E63-8ED9-807BA98A732A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40B789FD-A8BD-4618-91F6-1FFF64D7B78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40406322-B480-4E63-8ED9-807BA98A732A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40406322-B480-4E63-8ED9-807BA98A732A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40406322-B480-4E63-8ED9-807BA98A732A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40406322-B480-4E63-8ED9-807BA98A732A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
