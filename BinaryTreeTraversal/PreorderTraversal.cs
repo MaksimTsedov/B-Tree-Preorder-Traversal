@@ -2,18 +2,13 @@
 
 namespace BinaryTreeTraversal
 {
-    public static class TreeTraversals
+     public class PreorderTraversal : ITraversal
     {
-        public static IList<int> PreorderTraversal(TreeNode root)
+        public IList<int> TraversalStrategy(TreeNode root)
         {
             IList<int> resultList = new List<int>();
-
-            if (root == null)
-            {
-                return resultList;
-            }
-
             var nodeBuffer = new Stack<TreeNode>();
+
             nodeBuffer.Push(root);
             while (nodeBuffer.Count != 0)
             {

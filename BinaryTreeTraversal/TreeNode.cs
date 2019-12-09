@@ -2,9 +2,9 @@
 {
     public class TreeNode
     {
-        public int Val;
-        public TreeNode Left;
-        public TreeNode Right;
+        public int Val { get; set; }
+        public TreeNode Left { get; set; }
+        public TreeNode Right { get; set; }
 
         public TreeNode(int x)
         {
